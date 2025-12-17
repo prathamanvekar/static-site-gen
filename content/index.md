@@ -1,4 +1,4 @@
-# Tolkien Fan Club
+# Rishav Weds Paromita
 
 ![JRR Tolkien sitting](/images/tolkien.png)
 
