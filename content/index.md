@@ -1,4 +1,4 @@
-# Esha is a fan of seventeen
+# Tolkien Fan Club
 
 ![JRR Tolkien sitting](/images/tolkien.png)
 
