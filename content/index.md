@@ -1,4 +1,4 @@
-# Tolkien Fan Club
+# Prathamesh Anvekar Club
 
 ![JRR Tolkien sitting](/images/tolkien.png)
 
